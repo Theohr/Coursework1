@@ -1,4 +1,4 @@
-# Model Loader CW1 (10578755)
+# Model Loader
   
 ## Visual Studio Version 
 Visual Studio 2019 
